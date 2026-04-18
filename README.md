@@ -18,12 +18,10 @@ A fast, glanceable transit dashboard for Android and Wear OS, powered by the One
 - **Dark UI**: High-contrast, transit-themed dark mode throughout.
 
 <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0; align-items: center;">
-  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/screenshot_phone.png" width="180">
-  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/recording_phone.gif" width="180">
-  <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
-    <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/screenshot_watch.png" width="130">
-    <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/recording_watch.gif" width="130">
-  </div>
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/screenshot_phone.png" width="170">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/recording_phone.gif" width="170">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/screenshot_watch.png" width="115">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/recording_watch.gif" width="115">
 </div>
 
 ---
@@ -49,9 +47,9 @@ A seamless cross-device habit tracker with a web PWA and a dedicated Wear OS com
 
 **Wear OS App:**
 
-<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0;">
-  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/android/screenshots/wearos_screenshot.png" width="150">
-  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/android/screenshots/wearos_recording.gif" width="150">
+<div style="display: flex; gap: 10px; padding: 10px 0;">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/android/screenshots/wearos_screenshot.png" width="120">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/android/screenshots/wearos_recording.gif" width="120">
 </div>
 
 ---
