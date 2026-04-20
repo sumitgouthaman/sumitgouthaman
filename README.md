@@ -14,6 +14,9 @@ A fast, glanceable transit dashboard for Android and Wear OS, powered by the One
 
 - **Real-time Arrivals**: Handles API rate limits gracefully with caching.
 - **Location-aware**: Shows nearby stops automatically and floats starred stops to the top.
+- **Starred Routes**: Star specific routes within a stop for a focused view.
+- **Commute Notifications**: Schedule recurring alerts for typical commutes — get a push notification before departure showing the next buses, synced to Wear OS.
+- **Map Integration**: Open any stop directly in Google Maps from the stop detail screen.
 - **Wear OS Companion**: Syncs starred stops and settings from your phone.
 - **Dark UI**: High-contrast, transit-themed dark mode throughout.
 
@@ -34,8 +37,10 @@ A seamless cross-device habit tracker with a web PWA and a dedicated Wear OS com
 
 - **Smart Tracking**: Daily, weekly, and monthly habits with auto-reset.
 - **Flexible Goals**: Track binary completion (Done/Not Done) or specific counts.
+- **Rich Analytics**: Completion charts, streaks, day-of-week breakdowns, personal bests, and per-period value tracking.
+- **Cloud Sync**: Sign in with Google for real-time multi-device sync via Firebase — or use Guest Mode with local storage.
+- **Data Backup**: Export and import all habits and history as a JSON file.
 - **Wear OS Companion**: Check off habits directly from your wrist (built with Jetpack Compose).
-- **Visual Stats**: View streaks and completion progress.
 - **Offline Ready**: Works without an internet connection.
 
 <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0;">
