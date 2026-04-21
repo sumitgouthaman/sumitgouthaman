@@ -16,7 +16,6 @@ A fast, glanceable transit dashboard for Android and Wear OS, powered by the One
 - **Location-aware**: Shows nearby stops automatically and floats starred stops to the top.
 - **Starred Routes**: Star specific routes within a stop for a focused view.
 - **Commute Notifications**: Schedule recurring alerts for typical commutes — get a push notification before departure showing the next buses, synced to Wear OS.
-- **Map Integration**: Open any stop directly in Google Maps from the stop detail screen.
 - **Wear OS Companion**: Syncs starred stops and settings from your phone.
 - **Dark UI**: High-contrast, transit-themed dark mode throughout.
 
